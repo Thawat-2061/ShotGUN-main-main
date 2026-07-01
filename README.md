@@ -174,28 +174,28 @@ Displays all production assets.
 ### Tasks
 Displays task status, assignees, reviewers, and schedules.
 
-<img width="1020" height="462" alt="image" src="https://github.com/user-attachments/assets/fa811db1-e519-4e9a-86a3-706022208932" />
+<img width="1253" height="678" alt="image" src="https://github.com/user-attachments/assets/99e27026-0706-446a-a9b9-a449958785a4" />
 
 ---
 
 ### Versions
 Displays uploaded versions for review.
 
-<img width="1023" height="462" alt="image" src="https://github.com/user-attachments/assets/ae86a8e7-0ab0-4b3e-a815-3dd2b2436f2c" />
+<img width="1265" height="626" alt="image" src="https://github.com/user-attachments/assets/0cad9968-665a-471f-ad19-a2f3e0495fbb" />
 
 ---
 
 ### Files
 Displays uploaded project files and allows downloads.
 
-<img width="1042" height="476" alt="image" src="https://github.com/user-attachments/assets/bbaefeba-8032-4d34-a329-da707140ed99" />
+<img width="1266" height="686" alt="image" src="https://github.com/user-attachments/assets/f1cf489f-4f47-42d1-a8a9-4fda3b7a1a23" />
 
 ---
 
 ### People
 Displays project members.
 
-<img width="1073" height="482" alt="image" src="https://github.com/user-attachments/assets/eea7a133-189b-4d61-9d9f-c68e3c6d028f" />
+<img width="1262" height="635" alt="image" src="https://github.com/user-attachments/assets/eda58c58-0bb3-4363-af6c-355025653163" />
 
 ---
 
