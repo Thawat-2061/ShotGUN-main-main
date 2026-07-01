@@ -5,7 +5,7 @@
 // const BASE_URL = "http://localhost:3000";
 
 // maxaaaaaa
-const BASE_URL = "https://visibility-african-root-purchased.trycloudflare.com";
+const BASE_URL = "https://reduction-cheats-goals-dose.trycloudflare.com";
 
 
 const ENDPOINTS = {
@@ -22,7 +22,7 @@ const ENDPOINTS = {
   UPLOAD: `${BASE_URL}/upload`,
   GETPROJECTIMAGES: `${BASE_URL}/project/images`,
   DELETEPROJECT: `${BASE_URL}/deleteProject`,
-  image_url: "https://visibility-african-root-purchased.trycloudflare.com/",
+  image_url: "https://reduction-cheats-goals-dose.trycloudflare.com/",
   videos: `${BASE_URL}/videos`,
   IMAGE_URL: `${BASE_URL}/`,
   UPLOAD_VIDEO: `${BASE_URL}/upload/video`,
