@@ -202,7 +202,7 @@ Displays project members.
 ### People List
 Displays all tasks assigned to a selected member.
 
-<img width="1020" height="457" alt="image" src="https://github.com/user-attachments/assets/7de80c0a-0089-4ab4-b246-837cb2579b23" />
+<img width="1261" height="633" alt="image" src="https://github.com/user-attachments/assets/fc9f9519-7e42-4a03-8e1a-1f261375d551" />
 
 ---
 
