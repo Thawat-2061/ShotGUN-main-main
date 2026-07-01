@@ -224,7 +224,6 @@ Displays all tasks assigned to a selected member.
 - Dashboard analytics
 - Notification system
 - Role-based access control
-- Advanced search and filtering
 - File preview support
 - Responsive mobile interface
 
